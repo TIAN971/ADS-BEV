@@ -1,0 +1,19 @@
+BEVFormer-tiny Baseline Evaluation Metrics
+
+Model: BEVFormer-tiny
+Dataset: nuScenes trainval validation split
+Validation samples: 6019
+Result file: work_dirs/bevformer_tiny_baseline/results_tiny.pkl
+
+mAP: 0.0576
+NDS: 0.1520
+mATE: 1.1785
+mASE: 0.3544
+mAOE: 1.1729
+mAVE: 1.0582
+mAAE: 0.4135
+
+Eval time: 165.4s
+
+Note:
+This result is based on BEVFormer-tiny trained locally for 1 epoch. It is used as the local runnable baseline for Stage 1.

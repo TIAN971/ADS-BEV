@@ -1,0 +1,62 @@
+Loading BEVFormer-tiny results: work_dirs/bevformer_tiny_baseline/results_tiny.pkl
+Number of prediction outputs: 6019
+Loading nuScenes val infos: data/nuscenes/nuscenes_infos_temporal_val.pkl
+Number of val infos: 6019
+================================================================================
+Index: 0
+Instruction: focus on pedestrians in front of the ego vehicle
+Metadata: {'raw_text': 'focus on pedestrians in front of the ego vehicle', 'target_classes': ['car', 'pedestrian'], 'spatial_hints': ['front'], 'priority': 1.5}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0000.png
+Pred boxes drawn: 30
+GT boxes drawn: 37
+================================================================================
+Index: 1
+Instruction: pay attention to cars on the left
+Metadata: {'raw_text': 'pay attention to cars on the left', 'target_classes': ['car'], 'spatial_hints': ['left'], 'priority': 1.5}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0001.png
+Pred boxes drawn: 20
+GT boxes drawn: 38
+================================================================================
+Index: 2
+Instruction: watch nearby traffic cones
+Metadata: {'raw_text': 'watch nearby traffic cones', 'target_classes': ['traffic_cone'], 'spatial_hints': ['near'], 'priority': 1.0}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0002.png
+Pred boxes drawn: 27
+GT boxes drawn: 40
+================================================================================
+Index: 3
+Instruction: focus on vehicles behind the ego car
+Metadata: {'raw_text': 'focus on vehicles behind the ego car', 'target_classes': ['car'], 'spatial_hints': ['rear'], 'priority': 1.5}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0003.png
+Pred boxes drawn: 30
+GT boxes drawn: 41
+================================================================================
+Index: 4
+Instruction: focus on distant trucks on the right
+Metadata: {'raw_text': 'focus on distant trucks on the right', 'target_classes': ['truck'], 'spatial_hints': ['right', 'far'], 'priority': 1.5}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0004.png
+Pred boxes drawn: 30
+GT boxes drawn: 42
+================================================================================
+Index: 5
+Instruction: pay attention to buses in front
+Metadata: {'raw_text': 'pay attention to buses in front', 'target_classes': ['bus'], 'spatial_hints': ['front'], 'priority': 1.5}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0005.png
+Pred boxes drawn: 24
+GT boxes drawn: 42
+================================================================================
+Index: 6
+Instruction: watch motorcycles on the left
+Metadata: {'raw_text': 'watch motorcycles on the left', 'target_classes': ['motorcycle'], 'spatial_hints': ['left'], 'priority': 1.0}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0006.png
+Pred boxes drawn: 30
+GT boxes drawn: 42
+================================================================================
+Index: 7
+Instruction: focus on nearby vehicles
+Metadata: {'raw_text': 'focus on nearby vehicles', 'target_classes': ['car'], 'spatial_hints': ['near'], 'priority': 1.5}
+Saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_sample_0007.png
+Pred boxes drawn: 30
+GT boxes drawn: 44
+Summary saved: ../docs/visualizations/stage2_language_guided_tiny/language_guided_tiny_integration_summary.md
+Stage 2 V1 language-guided BEVFormer-tiny integration finished.

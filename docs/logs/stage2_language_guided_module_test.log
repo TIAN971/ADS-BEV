@@ -1,0 +1,30 @@
+================================================================================
+Instruction: focus on pedestrians in front of the ego vehicle
+Metadata: {'raw_text': 'focus on pedestrians in front of the ego vehicle', 'target_classes': ['car', 'pedestrian'], 'spatial_hints': ['front'], 'priority': 1.5}
+Input feature shape: (1, 64, 200, 200)
+Enhanced feature shape: (1, 64, 200, 200)
+Mask shape: (1, 1, 200, 200)
+Mask min/max: 0.0010151183232665062 1.0
+================================================================================
+Instruction: pay attention to cars on the left
+Metadata: {'raw_text': 'pay attention to cars on the left', 'target_classes': ['car'], 'spatial_hints': ['left'], 'priority': 1.5}
+Input feature shape: (1, 64, 200, 200)
+Enhanced feature shape: (1, 64, 200, 200)
+Mask shape: (1, 1, 200, 200)
+Mask min/max: 0.001015118439681828 1.0
+================================================================================
+Instruction: watch nearby traffic cones
+Metadata: {'raw_text': 'watch nearby traffic cones', 'target_classes': ['traffic_cone'], 'spatial_hints': ['near'], 'priority': 1.0}
+Input feature shape: (1, 64, 200, 200)
+Enhanced feature shape: (1, 64, 200, 200)
+Mask shape: (1, 1, 200, 200)
+Mask min/max: 0.0001888462866190821 0.9946299195289612
+================================================================================
+Instruction: focus on vehicles behind the ego car
+Metadata: {'raw_text': 'focus on vehicles behind the ego car', 'target_classes': ['car'], 'spatial_hints': ['rear'], 'priority': 1.5}
+Input feature shape: (1, 64, 200, 200)
+Enhanced feature shape: (1, 64, 200, 200)
+Mask shape: (1, 1, 200, 200)
+Mask min/max: 0.0010151183232665062 1.0
+================================================================================
+Language-guided BEV module functional test passed.

@@ -1,0 +1,50 @@
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/bevformer/modules/custom_base_transformer_layer.py:94: UserWarning: The arguments `feedforward_channels` in BaseTransformerLayer has been deprecated, now you should set `feedforward_channels` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/bevformer/modules/custom_base_transformer_layer.py:94: UserWarning: The arguments `ffn_dropout` in BaseTransformerLayer has been deprecated, now you should set `ffn_drop` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/bevformer/modules/custom_base_transformer_layer.py:94: UserWarning: The arguments `ffn_num_fcs` in BaseTransformerLayer has been deprecated, now you should set `num_fcs` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:341: UserWarning: The arguments `feedforward_channels` in BaseTransformerLayer has been deprecated, now you should set `feedforward_channels` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:341: UserWarning: The arguments `ffn_dropout` in BaseTransformerLayer has been deprecated, now you should set `ffn_drop` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:341: UserWarning: The arguments `ffn_num_fcs` in BaseTransformerLayer has been deprecated, now you should set `num_fcs` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:92: UserWarning: The arguments `dropout` in MultiheadAttention has been deprecated, now you can separately set `attn_drop`(float), proj_drop(float), and `dropout_layer`(dict) 
+  warnings.warn('The arguments `dropout` in MultiheadAttention '
+2026-05-19 21:37:42,721 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.0.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,722 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.1.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,723 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.2.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,723 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.3.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,724 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.4.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,725 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.5.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,726 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.6.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,727 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.7.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,727 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.8.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,728 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.9.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,729 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.10.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,730 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.11.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,731 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.12.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,732 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.13.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,732 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.14.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,733 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.15.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,734 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.16.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,735 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.17.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,736 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.18.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,738 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.19.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,739 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.20.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,741 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.21.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,742 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.22.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,743 - root - INFO - ModulatedDeformConvPack img_backbone.layer4.0.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,744 - root - INFO - ModulatedDeformConvPack img_backbone.layer4.1.conv2 is upgraded to version 2.
+2026-05-19 21:37:42,746 - root - INFO - ModulatedDeformConvPack img_backbone.layer4.2.conv2 is upgraded to version 2.
+projects.mmdet3d_plugin
+WARNING!!!!, Only can be used for obtain inference speed!!!!
+load checkpoint from local path: work_dirs/bevformer_small_debug/latest.pth
+[                                                  ] 0/20, elapsed: 0s, ETA:[>                                 ] 1/20, 0.8 task/s, elapsed: 1s, ETA:    23s[>>>                               ] 2/20, 1.3 task/s, elapsed: 2s, ETA:    14s[>>>>>                             ] 3/20, 1.6 task/s, elapsed: 2s, ETA:    11s[>>>>>>                            ] 4/20, 1.8 task/s, elapsed: 2s, ETA:     9s[>>>>>>>>                          ] 5/20, 1.9 task/s, elapsed: 3s, ETA:     8s[>>>>>>>>>>                        ] 6/20, 2.0 task/s, elapsed: 3s, ETA:     7s[>>>>>>>>>>>                       ] 7/20, 2.1 task/s, elapsed: 3s, ETA:     6s[>>>>>>>>>>>>>                     ] 8/20, 2.1 task/s, elapsed: 4s, ETA:     6s[>>>>>>>>>>>>>>>                   ] 9/20, 2.2 task/s, elapsed: 4s, ETA:     5s[>>>>>>>>>>>>>>>>                 ] 10/20, 2.2 task/s, elapsed: 5s, ETA:     5s[>>>>>>>>>>>>>>>>>>               ] 11/20, 2.2 task/s, elapsed: 5s, ETA:     4s[>>>>>>>>>>>>>>>>>>>              ] 12/20, 2.2 task/s, elapsed: 5s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>            ] 13/20, 2.2 task/s, elapsed: 6s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>          ] 14/20, 2.3 task/s, elapsed: 6s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 15/20, 2.3 task/s, elapsed: 7s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>       ] 16/20, 2.3 task/s, elapsed: 7s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 17/20, 2.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 18/20, 2.3 task/s, elapsed: 8s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 19/20, 2.3 task/s, elapsed: 8s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 20/20, 2.4 task/s, elapsed: 8s, ETA:     0s/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/torch/_tensor.py:575: UserWarning: floor_divide is deprecated, and will be removed in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values.
+To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor'). (Triggered internally at  ../aten/src/ATen/native/BinaryOps.cpp:467.)
+  return torch.floor_divide(self, other)
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/core/bbox/coders/nms_free_coder.py:76: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.post_center_range = torch.tensor(
+
+writing results to /home/tian/projects/ads_bev_project/BEVFormer/work_dirs/bevformer_small_debug/results_debug.pkl

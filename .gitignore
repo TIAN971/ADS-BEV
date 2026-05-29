@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+
+# Large datasets
+data/
+nuscenes/
+BEVFormer/data/
+BEVFormer/test/
+BEVFormer/work_dirs/
+
+# Model weights and outputs
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.onnx
+*.engine
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Logs that may become large
+*.log.tmp
+
+# Environment
+.env
+.venv/
+venv/
+conda_env/

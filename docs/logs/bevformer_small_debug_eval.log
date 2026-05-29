@@ -1,0 +1,91 @@
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/bevformer/modules/custom_base_transformer_layer.py:94: UserWarning: The arguments `feedforward_channels` in BaseTransformerLayer has been deprecated, now you should set `feedforward_channels` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/bevformer/modules/custom_base_transformer_layer.py:94: UserWarning: The arguments `ffn_dropout` in BaseTransformerLayer has been deprecated, now you should set `ffn_drop` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/bevformer/modules/custom_base_transformer_layer.py:94: UserWarning: The arguments `ffn_num_fcs` in BaseTransformerLayer has been deprecated, now you should set `num_fcs` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:341: UserWarning: The arguments `feedforward_channels` in BaseTransformerLayer has been deprecated, now you should set `feedforward_channels` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:341: UserWarning: The arguments `ffn_dropout` in BaseTransformerLayer has been deprecated, now you should set `ffn_drop` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:341: UserWarning: The arguments `ffn_num_fcs` in BaseTransformerLayer has been deprecated, now you should set `num_fcs` and other FFN related arguments to a dict named `ffn_cfgs`. 
+  warnings.warn(
+/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/mmcv/cnn/bricks/transformer.py:92: UserWarning: The arguments `dropout` in MultiheadAttention has been deprecated, now you can separately set `attn_drop`(float), proj_drop(float), and `dropout_layer`(dict) 
+  warnings.warn('The arguments `dropout` in MultiheadAttention '
+2026-05-19 21:23:36,333 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.0.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,334 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.1.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,335 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.2.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,336 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.3.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,338 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.4.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,339 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.5.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,340 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.6.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,342 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.7.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,343 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.8.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,345 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.9.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,346 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.10.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,347 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.11.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,349 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.12.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,350 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.13.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,351 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.14.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,352 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.15.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,353 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.16.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,355 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.17.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,356 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.18.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,357 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.19.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,358 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.20.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,359 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.21.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,360 - root - INFO - ModulatedDeformConvPack img_backbone.layer3.22.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,362 - root - INFO - ModulatedDeformConvPack img_backbone.layer4.0.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,364 - root - INFO - ModulatedDeformConvPack img_backbone.layer4.1.conv2 is upgraded to version 2.
+2026-05-19 21:23:36,367 - root - INFO - ModulatedDeformConvPack img_backbone.layer4.2.conv2 is upgraded to version 2.
+projects.mmdet3d_plugin
+WARNING!!!!, Only can be used for obtain inference speed!!!!
+load checkpoint from local path: work_dirs/bevformer_small_debug/latest.pth
+[                                                  ] 0/20, elapsed: 0s, ETA:[>                                 ] 1/20, 0.9 task/s, elapsed: 1s, ETA:    22s[>>>                               ] 2/20, 1.3 task/s, elapsed: 2s, ETA:    14s[>>>>>                             ] 3/20, 1.5 task/s, elapsed: 2s, ETA:    11s[>>>>>>                            ] 4/20, 1.7 task/s, elapsed: 2s, ETA:     9s[>>>>>>>>                          ] 5/20, 1.8 task/s, elapsed: 3s, ETA:     8s[>>>>>>>>>>                        ] 6/20, 1.9 task/s, elapsed: 3s, ETA:     7s[>>>>>>>>>>>                       ] 7/20, 2.0 task/s, elapsed: 4s, ETA:     7s[>>>>>>>>>>>>>                     ] 8/20, 2.0 task/s, elapsed: 4s, ETA:     6s[>>>>>>>>>>>>>>>                   ] 9/20, 2.0 task/s, elapsed: 4s, ETA:     5s[>>>>>>>>>>>>>>>>                 ] 10/20, 2.1 task/s, elapsed: 5s, ETA:     5s[>>>>>>>>>>>>>>>>>>               ] 11/20, 2.1 task/s, elapsed: 5s, ETA:     4s[>>>>>>>>>>>>>>>>>>>              ] 12/20, 2.1 task/s, elapsed: 6s, ETA:     4s[>>>>>>>>>>>>>>>>>>>>>            ] 13/20, 2.1 task/s, elapsed: 6s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>          ] 14/20, 2.2 task/s, elapsed: 6s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 15/20, 2.2 task/s, elapsed: 7s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>       ] 16/20, 2.2 task/s, elapsed: 7s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 17/20, 2.2 task/s, elapsed: 8s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 18/20, 2.2 task/s, elapsed: 8s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 19/20, 2.2 task/s, elapsed: 8s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 20/20, 2.2 task/s, elapsed: 9s, ETA:     0s
+Formating bboxes of pts_bbox
+Start to convert detection format...
+[                                                  ] 0/20, elapsed: 0s, ETA:[>                                ] 1/20, 27.1 task/s, elapsed: 0s, ETA:     1s[>>>                              ] 2/20, 25.2 task/s, elapsed: 0s, ETA:     1s[>>>>                             ] 3/20, 26.3 task/s, elapsed: 0s, ETA:     1s[>>>>>>                           ] 4/20, 28.0 task/s, elapsed: 0s, ETA:     1s[>>>>>>>>                         ] 5/20, 28.5 task/s, elapsed: 0s, ETA:     1s[>>>>>>>>>                        ] 6/20, 27.7 task/s, elapsed: 0s, ETA:     1s[>>>>>>>>>>>                      ] 7/20, 27.7 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>                    ] 8/20, 27.6 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>>                   ] 9/20, 27.6 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>>>>                ] 10/20, 28.2 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>>>>>               ] 11/20, 28.4 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>>>>>>>             ] 12/20, 28.3 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>            ] 13/20, 28.0 task/s, elapsed: 0s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>          ] 14/20, 28.0 task/s, elapsed: 1s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>        ] 15/20, 28.0 task/s, elapsed: 1s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>       ] 16/20, 28.0 task/s, elapsed: 1s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 17/20, 28.4 task/s, elapsed: 1s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 18/20, 28.7 task/s, elapsed: 1s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 19/20, 29.1 task/s, elapsed: 1s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 20/20, 29.1 task/s, elapsed: 1s, ETA:     0s/home/tian/miniconda3/envs/bevformer/lib/python3.8/site-packages/torch/_tensor.py:575: UserWarning: floor_divide is deprecated, and will be removed in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values.
+To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor'). (Triggered internally at  ../aten/src/ATen/native/BinaryOps.cpp:467.)
+  return torch.floor_divide(self, other)
+/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/core/bbox/coders/nms_free_coder.py:76: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.post_center_range = torch.tensor(
+
+Results writes to test/bevformer_small/Tue_May_19_21_23_52_2026/pts_bbox/results_nusc.json
+Evaluating bboxes of pts_bbox
+======
+Loading NuScenes tables for version v1.0-trainval...
+23 category,
+8 attribute,
+4 visibility,
+64386 instance,
+12 sensor,
+10200 calibrated_sensor,
+2631083 ego_pose,
+68 log,
+850 scene,
+34149 sample,
+2631083 sample_data,
+1166187 sample_annotation,
+4 map,
+Done loading in 23.986 seconds.
+======
+Reverse indexing ...
+Done reverse indexing in 4.2 seconds.
+======
+Initializing nuScenes detection evaluation
+Loaded results from test/bevformer_small/Tue_May_19_21_23_52_2026/pts_bbox/results_nusc.json. Found detections for 20 samples.
+Loading annotations for val split from nuScenes version: v1.0-trainval
+  0%|          | 0/6019 [00:00<?, ?it/s]  4%|▍         | 250/6019 [00:00<00:02, 2465.33it/s]  8%|▊         | 497/6019 [00:00<00:04, 1332.94it/s] 11%|█         | 658/6019 [00:00<00:04, 1310.02it/s] 13%|█▎        | 804/6019 [00:00<00:04, 1167.78it/s] 15%|█▌        | 930/6019 [00:00<00:04, 1049.79it/s] 17%|█▋        | 1041/6019 [00:00<00:05, 888.18it/s] 19%|█▉        | 1135/6019 [00:01<00:05, 845.87it/s] 21%|██        | 1238/6019 [00:01<00:05, 888.37it/s] 23%|██▎       | 1387/6019 [00:01<00:04, 1038.90it/s] 26%|██▌       | 1537/6019 [00:01<00:03, 1158.72it/s] 28%|██▊       | 1659/6019 [00:01<00:04, 950.59it/s]  30%|██▉       | 1795/6019 [00:01<00:04, 1048.05it/s] 32%|███▏      | 1910/6019 [00:01<00:04, 942.76it/s]  33%|███▎      | 2013/6019 [00:01<00:04, 928.31it/s] 35%|███▌      | 2112/6019 [00:02<00:04, 923.42it/s] 37%|███▋      | 2208/6019 [00:02<00:04, 838.41it/s] 39%|███▊      | 2320/6019 [00:02<00:04, 908.18it/s] 40%|████      | 2415/6019 [00:02<00:04, 880.07it/s] 43%|████▎     | 2578/6019 [00:02<00:03, 1077.90it/s] 45%|████▍     | 2691/6019 [00:02<00:03, 968.42it/s]  46%|████▋     | 2793/6019 [00:02<00:03, 913.47it/s] 48%|████▊     | 2900/6019 [00:02<00:03, 952.78it/s] 50%|████▉     | 2999/6019 [00:02<00:03, 957.61it/s] 52%|█████▏    | 3105/6019 [00:03<00:02, 979.63it/s] 53%|█████▎    | 3208/6019 [00:03<00:02, 991.97it/s] 55%|█████▌    | 3322/6019 [00:03<00:02, 1031.46it/s] 57%|█████▋    | 3427/6019 [00:03<00:02, 1004.31it/s] 59%|█████▉    | 3566/6019 [00:03<00:02, 1112.65it/s] 61%|██████    | 3679/6019 [00:03<00:02, 1085.23it/s] 63%|██████▎   | 3789/6019 [00:03<00:02, 1081.96it/s] 67%|██████▋   | 4003/6019 [00:03<00:01, 1387.26it/s] 69%|██████▉   | 4144/6019 [00:03<00:01, 1194.31it/s] 71%|███████   | 4270/6019 [00:04<00:01, 1202.57it/s] 73%|███████▎  | 4395/6019 [00:04<00:01, 1002.68it/s] 75%|███████▍  | 4504/6019 [00:04<00:01, 952.51it/s]  79%|███████▊  | 4732/6019 [00:04<00:01, 1275.76it/s] 82%|████████▏ | 4947/6019 [00:04<00:00, 1499.75it/s] 85%|████████▍ | 5114/6019 [00:04<00:00, 1544.63it/s] 88%|████████▊ | 5277/6019 [00:04<00:00, 1356.86it/s] 90%|█████████ | 5423/6019 [00:04<00:00, 1233.29it/s] 98%|█████████▊| 5907/6019 [00:05<00:00, 2117.93it/s]100%|██████████| 6019/6019 [00:05<00:00, 1173.05it/s]
+Loaded ground truth annotations for 6019 samples.
+Traceback (most recent call last):
+  File "tools/test.py", line 265, in <module>
+    main()
+  File "tools/test.py", line 261, in main
+    print(dataset.evaluate(outputs, **eval_kwargs))
+  File "/home/tian/projects/ads_bev_project/mmdetection3d/mmdet3d/datasets/nuscenes_dataset.py", line 505, in evaluate
+    ret_dict = self._evaluate_single(result_files[name])
+  File "/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/datasets/nuscenes_dataset.py", line 212, in _evaluate_single
+    self.nusc_eval = NuScenesEval_custom(
+  File "/home/tian/projects/ads_bev_project/BEVFormer/projects/mmdet3d_plugin/datasets/nuscnes_eval.py", line 559, in __init__
+    assert set(self.pred_boxes.sample_tokens) == set(self.gt_boxes.sample_tokens), \
+AssertionError: Samples in split doesn't match samples in predictions.

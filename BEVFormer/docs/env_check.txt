@@ -1,0 +1,10 @@
+torch: 1.9.1+cu111
+cuda available: True
+cuda version: 11.1
+gpu: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+mmcv: 1.4.0
+mmdet: 2.14.0
+mmseg: 0.14.1
+mmdet3d import ok
+detectron2 import ok
+BEVFormer plugin import ok
